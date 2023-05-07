@@ -1,0 +1,2 @@
+Github Link: https://github.com/sanket366/Classification-using-SVM-KNN-and-CNN
+Link to the blog: https://msanketr.wixsite.com/sanketmore/post/creating-a-classifier-for-mango-leaf-diseases
